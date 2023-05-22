@@ -1,0 +1,26 @@
+
+.linearGradient {
+    background: linear-gradient(to right top, #b45ba5, #5d79c0, #4a86c8, #3692cc, #b45ba5);
+    font-family: 'Orbitron', sans-serif;
+    font-family: 'Roboto', sans-serif;
+    height : 100vh;
+}
+/* .card-header{
+    box-shadow: 1px 1px 6px 1px;
+} */
+
+.card-info {
+    background: linear-gradient(to right top, #9eb45b, #5d9fc0, #c84a4a, #bdcc36, #5bb4ae);
+    box-shadow: 1px 1px 6px 1px;
+}
+
+.card-body{
+    position: relative;
+    
+
+}
+button.close.btn.btn-danger {
+    position: absolute;
+    right: 5px;
+    top: 15px;
+}
